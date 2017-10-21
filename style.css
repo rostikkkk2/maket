@@ -1,0 +1,95 @@
+*{
+  color: white;
+}
+
+.no-padding{
+ padding-right: 0 !important;
+ padding-left: 0 !important;
+}
+
+.main{
+  margin-top: 150px;
+}
+
+.h1-custom{
+  font-size: 45px;
+}
+
+.divider{
+  border: 1px solid orange;
+  width: 15%;
+  margin: 15px auto;
+}
+
+.description{
+  width: 70%;
+  margin: 0 auto 30px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.btn-cor{
+  background: transparent;
+  color: white;
+}
+
+.custom-header{
+  background: url("images/head-img.jpg");
+  padding-bottom: 250px;
+  min-height: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-line{
+  min-height: 50px;
+}
+
+.logo{
+  width: 45px;
+}
+
+.menu{
+  margin-top: 15px;
+  float: right;
+  font-weight: bold;
+}
+
+.menu li{
+  margin-right: 25px;
+}
+
+.menu li:hover a{
+  color: darkorange;
+}
+
+.text-corect{
+  color: black;
+}
+
+.mt-30{
+  margin-top: 30px;
+}
+
+.divider-footer{
+  border: 1px solid darkorange;
+  width: 5%;
+  margin: auto;
+}
+
+.description-footer{
+  font-style: italic;
+  margin-top: 20px;
+}
+
+.text-darkorange-bold{
+  color: darkorange;
+  font-weight: bold;
+}
